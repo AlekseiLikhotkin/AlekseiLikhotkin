@@ -3,8 +3,6 @@
 - 🌱 I’m currently learning CSS
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me Faraway Kingdom
-- 😄 Pronouns: im not gay im Aleksei
-- ⚡ Fun fact: leshik coin
 
 <!---
 AlekseiLikhotkin/AlekseiLikhotkin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
